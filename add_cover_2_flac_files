@@ -1,0 +1,1 @@
+metaflac --import-picture-from cover.jpg ./*.flac
